@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+
+  <title>EVIDENCE MENU</title>
+
+
+</head>
+
+
+<body>
+  <div class="container" style="display: none;">
+    <div class="background">
+      <!-- <img  class ="arkaplan" src="./images/Crafting.png" alt=""> -->
+    </div>
+   
+      <div id="progressbar">
+        <div class="ply-weight-prog"></div>
+    
+    </div>
+ 
+
+  
+    <div class="notify-container"> </div>
+    <div class="progressbarcontainer">
+    <div id="progressbarcircle"></div>
+    </div>
+    <div class="mainwrapper">
+
+      <div class="avatar">
+        <img  class ="arkaplan" src="https://img.gta5-mods.com/q95/images/grizzled-franklin/6bcaa0-preview2.jpg" alt="">
+      </div>
+      
+      <h2 class="textes">Pedro Henrique</h2>
+      <h2 class="textes2">$ 425 251 124</h2>
+      <h2 class="cratftext">CRAFTING</h2>
+      <h2 class="categorytext">Categoria</h2>
+      <h2 class="backpage">Voltar</h2>
+      <h2 class="weaponname">AK - 47</h2>
+      <h2 class="weaponname2"></h2>
+      <h2 class="playerxp">SEU LEVEL <span class="playerxplvl">4</span><span class="dsg">/8</span></h2>
+      <h2 class="kalanxp" ><span class="kalanxpspan">384</span> EXP PARA O PROXIMO LEVEL</h2>
+      <h2 class="text1">PARA CRIAR VOCÊ PRECISA</h2>
+      <h2 class="yuzdeilerleme">%0</h2>
+      <h2 class="text2">NOME DO PRODUTO: <span class="weaponspanname">WEAPON NAME</span></h2>
+      <h2 class="text3"><span class="weaponspanminute"> </span> MINUTOS PARA FABRICAR</h2>
+      <div class="startButton">
+        CRAFTAR
+      </div>
+      <div class="awaitingButton">
+        PRODUÇÃO
+      </div>
+      <div class="claimButton">
+        PEGAR
+      </div>
+
+      <div class="buttontype">
+
+
+      </div>
+  
+      <div class="weaponWrapper">
+        <!-- <div class="weaponlist">
+          <h2 class="weaponame">AK - 47</h2>
+          <h2 class="weapontime">20 MINUTES</h2>
+          <h2 class="weaponlvl">2 LVL</h2>
+          <div class="weaponbackground "></div>
+          <!-- <img class="weaponback" src="./images/silahbackground.png" alt=""> -->
+          <!-- <img class="weaponimage" src="./images/AssaultRifleMkII-GTAV2.png" alt="">
+        </div> 
+        <div class="weaponlist">
+          <h2 class="weaponame">AK - 47</h2>
+          <h2 class="weapontime">20 MINUTES</h2>
+          <h2 class="weaponlvl">2 LVL</h2>
+          <div class="weaponbackground"></div>
+          <!-- <img class="weaponback" src="./images/silahbackground.png" alt=""> -->
+          <!-- <img class="weaponimage" src="./images/AssaultRifleMkII-GTAV2.png" alt="">
+        </div>  -->
+         
+  
+  
+      </div>
+      <div class="craftitem">
+        <img class="weaponcraftitemback" src="./images/craftlinee.png" alt="">
+        <div class="showweapon">
+          <img class="showweapons" src="./itemimages/AssaultRifleMkII-GTAV1.png" alt="">
+        </div>
+         <div class="progressBars">
+           <!-- <h2 class="sure">00:00</h2> -->
+          <!-- <div class="progressBar " id="progress1"></div>
+          <div class="progressBar " id="progress2"></div>
+          <div class="progressBar " id="progress3"></div>
+          <div class="progressBar" id="progress4"></div>
+          <div class="progressBar" id="progress5"></div>
+          <div class="progressBar" id="progress6"></div>
+          <div class="progressBar" id="progress7"></div>
+          <div class="progressBar" id="progress8"></div>
+          <div class="progressBar" id="progress9"></div> -->
+        </div> 
+      </div>
+      <div class="gerekliItem">
+        <img class="backweaponpng" src="./images/gerekliitemler.png" alt="">
+        <div class="gerekliliste">
+          <!-- <div class="items">
+            <img class="gerekliItempng" src="./images/water.png" alt="">
+            <h2>WATER</h2>
+            <h3>3/1</h3>
+          </div> -->
+        
+  
+        </div>
+      </div>
+    </div>
+  
+  
+  </div>
+  
+
+</body>
+
+
+<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+<script src="progressbar.js"></script>
+<script src="script.js"></script> 
+
+<script>
+(function(){
+  var awaitingData=[],serverTimeOrigin=0,clientTimeOrigin=0;
+  function selectName(){
+    var el=document.querySelector('.weaponspanname');
+    if(!el) return null;
+    var s=el.textContent;
+    return s&&s.trim().length?s.trim():null;
+  }
+  function tick(){
+    if(!awaitingData.length||!serverTimeOrigin) return;
+    var name=selectName();
+    if(!name) return;
+    var row=null;
+    for(var i=0;i<awaitingData.length;i++){
+      var n=(awaitingData[i].weaponname||'').toLowerCase();
+      if(n===name.toLowerCase()){ row=awaitingData[i]; break; }
+    }
+    if(!row) return;
+    var now=serverTimeOrigin+(Date.now()/1000-clientTimeOrigin);
+    var total=Number(row.weapontime)||0;
+    var start=Number(row.itemTime)||0;
+    if(total<=0||start<=0) return;
+    var p=Math.max(0,Math.min(1,(now-start)/total));
+    var el=document.querySelector('.yuzdeilerleme');
+    if(el){ el.textContent='%'+Math.floor(p*100); }
+  }
+  window.addEventListener('message',function(e){
+    var d=e.data||{};
+    if(d.type==='AWAITING_DATA'){
+      awaitingData=Array.isArray(d.sqldata)?d.sqldata:[];
+      serverTimeOrigin=Number(d.serverTime)||0;
+      clientTimeOrigin=Date.now()/1000;
+    }
+  });
+  setInterval(tick,500);
+})();
+</script>
+
+</html>

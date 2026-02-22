@@ -1,0 +1,17 @@
+1- Configure o script no config.lua
+• Framework (Config.framework)
+• ABRIR (Config.commandToOpenMenu)
+• ITENS (Config.beautifierItemNames)
+• BLACK-LIST ITENS (Config.Blacklisteditems)
+• BLACK-LIST VEÍCULOS (Config.BlacklistedVehicles)
+
+OBS: Essas configurações acima são extremamente importantes que você verifique!
+
+2- Coloque o banco de dados do script
+• Execute o arquivo database.sql no seu banco de dados
+• Se sua base usar o oxmysql, mantenha @oxmysql/lib/MySQL.lua no fxmanifest, e se usar o mysql-async, coloque @mysql-async/lib/MySQL.lua no fxmanifest.
+
+3- Imagens do script
+• O script puxa as imagens da pasta: nui/images
+
+OBS: No arquivo server/functions.lua tem todas as functions usadas no script
