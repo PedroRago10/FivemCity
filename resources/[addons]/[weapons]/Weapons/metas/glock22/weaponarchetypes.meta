@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>W_PI_Glock22</modelName>
+			<txdName>W_PI_Glock22</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="30"/>
+		</Item>
+		<Item>
+			<modelName>W_PI_Glock22_Mag1</modelName>
+			<txdName>W_PI_Glock22_Mag1</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="30"/>
+		</Item>
+		<Item>
+			<modelName>W_PI_Glock22_Mag2</modelName>
+			<txdName>W_PI_Glock22_Mag2</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="30"/>
+		</Item>
+		<Item>
+			<modelName>W_PI_Glock22_Mag_FMJ</modelName>
+			<txdName>W_PI_Glock22_Mag_FMJ</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="30"/>
+		</Item>
+		<Item>
+			<modelName>W_PI_Glock22_Mag_HP</modelName>
+			<txdName>W_PI_Glock22_Mag_HP</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="30"/>
+		</Item>
+		<Item>
+			<modelName>W_PI_Glock22_Mag_Inc</modelName>
+			<txdName>W_PI_Glock22_Mag_Inc</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="30"/>
+		</Item>
+		<Item>
+			<modelName>W_PI_Glock22_Mag_Tr</modelName>
+			<txdName>W_PI_Glock22_Mag_Tr</txdName>
+			<ptfxAssetName>weap_gr_weapons</ptfxAssetName>
+			<lodDist value="30"/>
+		</Item>
+		<Item>
+			<modelName>W_AT_Gl_Flsh_2</modelName>
+			<txdName>W_AT_Gl_Flsh_2</txdName>
+			<ptfxAssetName>weap_gr_weapons</ptfxAssetName>
+			<lodDist value="30"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

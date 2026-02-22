@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponComponentInfoBlob>
+	<Infos>
+    	<Item type="CWeaponComponentClipInfo">
+    	  	<Name>COMPONENT_GLOCK22_CLIP_01</Name>
+    	  	<Model>w_pi_glock22_mag1</Model>
+    	  	<LocName>WCT_CLIP1</LocName>
+    	  	<LocDesc>WCD_CLIP1</LocDesc>
+    	  	<AttachBone>AAPClip</AttachBone>
+    	  	<AccuracyModifier type="NULL" />
+    	  	<DamageModifier type="NULL" />
+    	  	<bShownOnWheel value="false" />
+    	  	<CreateObject value="true" />
+    	  	<HudDamage value="0" />
+    	  	<HudSpeed value="0" />
+    	  	<HudCapacity value="0" />
+    	  	<HudAccuracy value="0" />
+    	  	<HudRange value="0" />
+    	  	<ClipSize value="17" />
+    	  	<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		  	<AmmoInfo />
+    	  	<TracerFx />
+    	  	<TracerFxSpacing value="-1" />
+    	  	<TracerFxForceLast value="-1" />
+    	</Item>
+    	<Item type="CWeaponComponentClipInfo">
+    	  	<Name>COMPONENT_GLOCK22_CLIP_02</Name>
+		  	<Model>w_pi_glock22_mag2</Model>
+    	  	<LocName>WCT_CLIP2</LocName>
+    	  	<LocDesc>WCD_CLIP2</LocDesc>
+    	  	<AttachBone>AAPClip</AttachBone>
+    	  	<AccuracyModifier type="NULL" />
+    	  	<DamageModifier type="NULL" />
+    	  	<bShownOnWheel value="true" />
+    	  	<CreateObject value="true" />
+    	  	<HudDamage value="0" />
+    	  	<HudSpeed value="0" />
+    	  	<HudCapacity value="33" />
+    	  	<HudAccuracy value="0" />
+    	  	<HudRange value="0" />
+    	  	<ClipSize value="16" />
+    	  	<ReloadData ref="RELOAD_LARGE_WITH_EMPTIES" />
+		  	<AmmoInfo />
+    	  	<TracerFx />
+    	  	<TracerFxSpacing value="-1" />
+    	  	<TracerFxForceLast value="-1" />
+    	</Item>
+    	<Item type="CWeaponComponentClipInfo">
+    	  	<Name>COMPONENT_GLOCK22_CLIP_FMJ</Name>
+    	  	<Model>w_pi_glock22_mag_fmj</Model>
+    	  	<LocName>WCT_CLIP_FMJ</LocName>
+    	  	<LocDesc>WCD_CLIP_FMJ</LocDesc>
+    	  	<AttachBone>AAPClip</AttachBone>
+    	  	<AccuracyModifier type="NULL" />
+    	  	<DamageModifier type="NULL" />
+    	  	<bShownOnWheel value="true" />
+    	  	<CreateObject value="true" />
+    	  	<HudDamage value="10" />
+    	  	<HudSpeed value="0" />
+    	  	<HudCapacity value="0" />
+    	  	<HudAccuracy value="0" />
+    	  	<HudRange value="0" />
+    	  	<ClipSize value="8" />
+    	  	<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		  	<AmmoInfo>AMMO_PISTOL_FMJ</AmmoInfo>
+    	  	<TracerFx />
+    	  	<TracerFxSpacing value="-1" />
+    	  	<TracerFxForceLast value="-1" />
+    	</Item>
+    	<Item type="CWeaponComponentClipInfo">
+    	  	<Name>COMPONENT_GLOCK22_CLIP_HOLLOWPOINT</Name>
+    	  	<Model>w_pi_glock22_mag_hp</Model>
+    	  	<LocName>WCT_CLIP_HP</LocName>
+    	  	<LocDesc>WCD_CLIP_HP</LocDesc>
+    	  	<AttachBone>AAPClip</AttachBone>
+    	  	<AccuracyModifier type="NULL" />
+    	  	<DamageModifier type="NULL" />
+    	  	<bShownOnWheel value="true" />
+    	  	<CreateObject value="true" />
+    	  	<HudDamage value="10" />
+    	  	<HudSpeed value="0" />
+    	  	<HudCapacity value="0" />
+    	  	<HudAccuracy value="0" />
+    	  	<HudRange value="0" />
+    	  	<ClipSize value="8" />
+    	  	<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		  	<AmmoInfo>AMMO_PISTOL_HOLLOWPOINT</AmmoInfo>
+    	  	<TracerFx />
+    	  	<TracerFxSpacing value="-1" />
+    	  	<TracerFxForceLast value="-1" />
+    	</Item>
+    	<Item type="CWeaponComponentClipInfo">
+    	  	<Name>COMPONENT_GLOCK22_CLIP_INCENDIARY</Name>
+    	  	<Model>w_pi_glock22_mag_inc</Model>
+    	  	<LocName>WCT_CLIP_INC</LocName>
+    	  	<LocDesc>WCD_CLIP_INC</LocDesc>
+    	  	<AttachBone>AAPClip</AttachBone>
+    	  	<AccuracyModifier type="NULL" />
+    	  	<DamageModifier type="NULL" />
+    	  	<bShownOnWheel value="true" />
+    	  	<CreateObject value="true" />
+    	  	<HudDamage value="10" />
+    	  	<HudSpeed value="0" />
+    	  	<HudCapacity value="0" />
+    	  	<HudAccuracy value="0" />
+    	  	<HudRange value="0" />
+    	  	<ClipSize value="8" />
+    	  	<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		  	<AmmoInfo>AMMO_PISTOL_INCENDIARY</AmmoInfo>
+    	  	<TracerFx />
+    	  	<TracerFxSpacing value="-1" />
+    	  	<TracerFxForceLast value="-1" />
+    	</Item>
+    	<Item type="CWeaponComponentClipInfo">
+    	  	<Name>COMPONENT_GLOCK22_CLIP_TRACER</Name>
+    	  	<Model>w_pi_glock22_mag_tr</Model>
+    	  	<LocName>WCT_CLIP_TR</LocName>
+    	  	<LocDesc>WCD_CLIP_TR</LocDesc>
+    	  	<AttachBone>AAPClip</AttachBone>
+    	  	<AccuracyModifier type="NULL" />
+    	  	<DamageModifier type="NULL" />
+    	  	<bShownOnWheel value="true" />
+    	  	<CreateObject value="true" />
+    	  	<HudDamage value="0" />
+    	  	<HudSpeed value="0" />
+    	  	<HudCapacity value="0" />
+    	  	<HudAccuracy value="0" />
+    	  	<HudRange value="0" />
+    	  	<ClipSize value="12" />
+    	  	<ReloadData ref="RELOAD_DEFAULT_WITH_EMPTIES" />
+		  	<AmmoInfo>AMMO_PISTOL_TRACER</AmmoInfo>
+    	  	<TracerFx>bullet_tracer_gr_tintable</TracerFx>
+    	  	<TracerFxSpacing value="3" />
+    	  	<TracerFxForceLast value="3" />
+    	</Item>
+
+	</Infos>
+	<InfoBlobName/>
+</CWeaponComponentInfoBlob>
+
