@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="3001" />
+	<filePathHash value="0" />
+	<proxies>
+		<Item>creativeWarehouseS</Item>
+		<Item>creativeWarehouseM</Item>
+		<Item>creativeWarehouseL</Item>
+		<Item>creativeTwoFloors</Item>
+		<Item>creativeThreeFloors</Item>
+		<Item>creativeSquare</Item>
+		<Item>creativeOneFloors</Item>
+		<Item>creativeLostudios</Item>
+		<Item>creativeFranklin</Item>
+		<Item>bs_int</Item>
+		<Item>zn_fishing_mlo</Item>
+		<Item>int_genstore_milo_</Item>
+		<Item>v_clinick</Item>
+		<Item>int_italy2_milo_</Item>
+		<Item>weazel_milo</Item>
+		<Item>int_apteka2_milo_</Item>
+		<Item>gabz_burgershot_milo</Item>
+		<Item>id1_h_shell_2fl_milo_</Item>
+		<Item>id1_h_shell_1fl_milo_</Item>
+		<Item>k4mb1_cave_milo_</Item>
+		<Item>k4mb1_caveexterior_milo_</Item>
+		<Item>sanhje_prison_cafeteria_placement</Item>
+		<Item>sanhje_prison_infirmary_placement</Item>
+		<Item>sanhje_prison_placement</Item>
+		<Item>sanhje_prison_reception_placement</Item>
+		<Item>hw1_vpd_main_milo_</Item>
+		<Item>hw1_vpd_gar_milo_</Item>
+	</proxies>
+</SInteriorOrderData>
