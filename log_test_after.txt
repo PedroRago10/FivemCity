@@ -1,0 +1,1040 @@
+[38;5;83m[           resources] [0m[0m[32mScanning resources.[0m
+[38;5;55m[resources:screenshot] [0m[0m[93mWarning: screenshot exists in more than one place (C:\Users\Pedro\Documents\FivemCity\resources\[exclusive]\screenshot is used, the duplicate is C:\Users\Pedro\Documents\FivemCity\resources\[system]\screenshot)[0m
+[38;5;83m[           resources] [0m[0m[32mFound 122 resources.[0m
+[38;5;83m[           resources] [0m[0m[93m1 warning was encountered.[0m
+[38;5;66m[          svadhesive] [0m[0mAuthenticating server license key...
+[38;5;66m[          svadhesive] [0m[0mServer license key authentication succeeded. Welcome!
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for sessionmanager
+[38;5;83m[           resources] [0m[0mStarted resource sessionmanager
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for vrp
+[38;5;83m[           resources] [0m[0mStarted resource vrp
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for oxmysql
+[38;5;83m[           resources] [0m[0mStarted resource oxmysql
+[38;5;140m[resources:Favelas:st] [0m[0m[94mAsset Favelas/bar.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource Favelas (1 warning)
+[38;5;124m[resources:Gunmetas:s] [0m[0m[94mAsset Gunmetas/w_mg_flamethrower.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource Gunmetas (1 warning)
+[38;5;83m[           resources] [0m[0mStarted resource Mansion
+[38;5;225m[resources:Mosin-Naga] [0m[0m[93mAsset Mosin-Nagant/w_sr_mosin.ydr uses 40.0 MiB of physical memory.[0m
+[38;5;225m[resources:Mosin-Naga] [0m[0m[93mAsset Mosin-Nagant/w_sr_mosin_hi.ydr uses 40.0 MiB of physical memory.[0m
+[38;5;225m[resources:Mosin-Naga] [0m[0m[93mAsset Mosin-Nagant/w_sr_mosin_mag1.ydr uses 40.0 MiB of physical memory.[0m
+[38;5;225m[resources:Mosin-Naga] [0m[0m[93mAsset Mosin-Nagant/w_sr_mosin_mag1_hi.ydr uses 40.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource Mosin-Nagant (4 warnings)
+[38;5;83m[           resources] [0m[0mStarted resource New_Vanilla_Unicorn
+[38;5;83m[           resources] [0m[0mStarted resource Thrown
+[38;5;83m[           resources] [0m[0mStarted resource WEAPON_FNFAL
+[38;5;83m[           resources] [0m[0mStarted resource WEAPON_FNL1A1
+[38;5;83m[           resources] [0m[0mStarted resource WEAPON_KARAMBIT
+[38;5;83m[           resources] [0m[0mStarted resource WEAPON_NAILGUN
+[38;5;181m[resources:WEAPON_PAR] [0m[0m[93mAsset WEAPON_PARAFAL/w_ar_parafal+hi.ytd uses 48.0 MiB of physical memory.[0m
+[38;5;181m[resources:WEAPON_PAR] [0m[0m[93mAsset WEAPON_PARAFAL/w_ar_parafal.ytd uses 48.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource WEAPON_PARAFAL (2 warnings)
+[38;5;83m[           resources] [0m[0mStarted resource WEAPON_SHOES
+[38;5;190m[resources:Weapons:st] [0m[0m[93mAsset Weapons/w_ar_assaultrifle_aks74+hi.ytd uses 48.0 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[93mAsset Weapons/w_ar_assaultrifle_aks74.ytd uses 48.0 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[93mAsset Weapons/w_ar_hk416+hi.ytd uses 36.0 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[93mAsset Weapons/w_ar_hk416.ytd uses 36.0 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[94mAsset Weapons/w_ar_hk416_mag1.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[94mAsset Weapons/w_at_ar_supp.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[94mAsset Weapons/w_at_ar_supp_02.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[94mAsset Weapons/w_me_katana.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[94mAsset Weapons/w_sb_mp5.ytd uses 24.5 MiB of physical memory.[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[93mAsset Weapons/w_sb_mp9+hi.ytd uses 60.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;190m[resources:Weapons:st] [0m[0m[93mAsset Weapons/w_sb_mp9.ytd uses 60.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;83m[           resources] [0m[0mStarted resource Weapons (11 warnings)
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/16challenger.ytd uses 16.6 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/16charger.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/17m760i.yft uses 29.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/17m760i.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/17m760i_hi.yft uses 29.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/180sx.yft uses 27.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/180sx.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/180sx_hi.yft uses 27.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/2016ranger.yft uses 17.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/2016ranger.ytd uses 32.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/2016ranger_hi.yft uses 17.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/370z.yft uses 22.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/370z.ytd uses 19.1 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/370z_hi.yft uses 22.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/911r.yft uses 25.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/911r.ytd uses 18.4 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/911r_hi.yft uses 25.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/Carreta.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[91mAsset hiden_vehs/HDIron883.ytd uses 76.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/Titan22k.yft uses 20.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/Titan22k.ytd uses 52.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/Titan22k_hi.yft uses 20.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/Treme.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/TremeTreme.yft uses 25.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/TremeTreme.ytd uses 27.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/TremeTreme_hi.yft uses 25.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/WRsprinter22.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/WRsprinter22_hi.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/WRsprinter22cbm.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/WRsprinter22cbm_hi.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/WRsw4.yft uses 20.4 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/WRsw4_hi.yft uses 20.4 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/WRsw4cbm.yft uses 20.4 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/WRsw4cbm_hi.yft uses 20.4 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/Y1700MAX.yft uses 22.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[91mAsset hiden_vehs/Y1700MAX.ytd uses 102.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/Y1700MAX_hi.yft uses 22.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/amgone.yft uses 25.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/amgone.ytd uses 57.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/amgone_hi.yft uses 25.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/armoredgle.yft uses 24.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/armoredgle_hi.yft uses 24.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/as350b3.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/audir8.yft uses 17.9 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/audir8_hi.yft uses 17.9 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/audirs6.yft uses 19.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/audirs6_hi.yft uses 16.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/basepm.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/belanewsvan.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/benze55.yft uses 27.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/benze55.ytd uses 20.8 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/benze55_hi.yft uses 27.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/blambulancia.yft uses 23.3 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/blambulancia.ytd uses 17.8 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/blambulancia_hi.yft uses 23.3 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwg07.ytd uses 31.8 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwg07_hi.yft uses 16.7 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwi8.yft uses 16.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwi8.ytd uses 29.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwm4gts.yft uses 22.4 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwm4gts_hi.yft uses 20.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwm8.yft uses 23.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwm8.ytd uses 18.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmwm8_hi.yft uses 23.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bmws19.yft uses 26.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/bnr34.ytd uses 45.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bnr34_hi.yft uses 17.4 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bnr34_livery_2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bnr34_livery_3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bnr34_livery_4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bnr34_livery_5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bnr34_livery_6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/bnr34_livery_7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/c8.yft uses 26.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[91mAsset hiden_vehs/c8.ytd uses 108.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/c8_hi.yft uses 26.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/c981.ytd uses 20.6 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cb2020.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cb2020_hi.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cb500f.yft uses 16.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cb500f.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cb500f_hi.yft uses 16.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cbr15.ytd uses 31.6 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cbr650r.yft uses 24.3 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cbr650r_hi.yft uses 24.3 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cessna.ytd uses 31.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cg160.yft uses 16.6 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cg160_hi.yft uses 16.6 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/checelta.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/checelta_hi.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/chevette.ytd uses 30.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/civic2010.yft uses 18.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/civic2010_hi.yft uses 18.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/civicsi.yft uses 18.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/civicsi_hi.yft uses 18.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cruze.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cruze.ytd uses 30.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/cruze_hi.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/deboxe_som.yft uses 24.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/dusterpm.yft uses 23.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[91mAsset hiden_vehs/dusterpm.ytd uses 88.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/dusterpm_hi.yft uses 23.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/enladder.yft uses 21.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/enladder.ytd uses 27.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/enladder_hi.yft uses 21.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/esc21.yft uses 23.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/esc21.ytd uses 29.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/esc21_hi.yft uses 23.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f12ber.ytd uses 27.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f250deboxe.yft uses 26.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f250deboxe.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f250deboxe_hi.yft uses 26.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82.yft uses 28.6 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82.ytd uses 27.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f824slw.yft uses 30.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f824slw.ytd uses 29.2 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f824slw_hi.yft uses 18.6 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82_hi.yft uses 16.4 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82duke.yft uses 30.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82duke.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82duke_hi.yft uses 19.4 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82hs.yft uses 28.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82hs.ytd uses 27.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82hs_hi.yft uses 20.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82lw.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82lw.ytd uses 29.8 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82lw_hi.yft uses 20.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82st.yft uses 31.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82st.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f82st_hi.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f850pm.yft uses 24.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/f850pm.ytd uses 36.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/f850pm_hi.yft uses 24.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcma3sedan2022.yft uses 31.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcma3sedan2022_hi.yft uses 31.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmcity14.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmcity14.ytd uses 17.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmcity14_hi.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmcorolla20cn.yft uses 23.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmcorolla20cn.ytd uses 29.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmcorolla20cn_hi.yft uses 23.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmsanderogt.yft uses 26.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmsanderogt.ytd uses 18.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gcmsanderogt_hi.yft uses 26.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golcopa.yft uses 27.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golcopa.ytd uses 17.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golcopa_hi.yft uses 27.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golfgti.ytd uses 16.2 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golg9.yft uses 19.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golg9.ytd uses 17.2 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golg9_hi.yft uses 19.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golmarlboro.yft uses 25.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/golmarlboro_hi.yft uses 25.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gs310.yft uses 17.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gs310.ytd uses 23.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gs310_hi.yft uses 17.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gsxr1000.ytd uses 23.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/gsxrk7_forks_u.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hiluxcoe.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/hiluxcoe.ytd uses 51.2 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hiluxcoe_hi.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hiluxsrx19.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hiluxsrx19.ytd uses 30.2 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hiluxsrx19_hi.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hondacivic20.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hondacivic20.yft uses 28.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hondacivic20_hi.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hondacivic20_hi.yft uses 28.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hornet2014.yft uses 29.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/hornet2014_hi.yft uses 29.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/jeep.ytd uses 18.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/jettagli.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/jettagli.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/jettagli_hi.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/jettagli_hi.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/l200coe.yft uses 29.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/l200coe.ytd uses 56.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/l200coe_hi.yft uses 29.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lamborghinievo_livery_1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lamborghinievo_livery_2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lamborghinievo_livery_3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lamborghinievo_livery_4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lamborghinievo_livery_5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lamborghinievo_livery_6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lander.yft uses 26.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lander.ytd uses 21.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/lander_hi.yft uses 26.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/landvelar.yft uses 21.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/landvelar_hi.yft uses 21.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100.yft uses 29.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_hi.yft uses 27.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_int1s1.yft uses 24.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_liv_90s.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_liv_daw.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_liv_flu.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_liv_kunnyz.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_liv_ngnl.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_momo_race.yft uses 24.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_nardi_classic.yft uses 24.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_nardi_corn2.yft uses 24.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_plate_tsu.yft uses 24.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_recaro_base.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_thrash_black.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mk2100_thrash_zebra.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/motorizadamoto.yft uses 25.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/motorizadamoto_hi.yft uses 25.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mt03.yft uses 16.9 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[91mAsset hiden_vehs/mt03.ytd uses 194.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/mt03_hi.yft uses 16.9 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/nivus.yft uses 22.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/nivus.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/nivus_hi.yft uses 22.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/onipc1.yft uses 28.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/onipc1.yft uses 29.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/onipc1.ytd uses 30.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/onipc1_hi.yft uses 28.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/onipc1_hi.yft uses 29.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/opala.yft uses 22.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/opala_hi.yft uses 22.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/pistaspider19.ytd uses 29.2 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/pop110i+hi.ytd uses 54.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/pop110i.yft uses 21.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/pop110i.ytd uses 61.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/pop110i_hi.yft uses 21.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/q820.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/q820_hi.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r1.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r1.ytd uses 22.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r1200bomb.yft uses 24.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r1200bomb_hi.yft uses 24.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r1250.yft uses 27.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r1250_hi.yft uses 27.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r1_hi.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r6.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/r6_hi.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/ram2500.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/ram2500.ytd uses 25.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/ram2500_hi.yft uses 31.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/renaultcbm.yft uses 30.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/renaultcbm.ytd uses 28.8 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/renaultcbm_hi.yft uses 30.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/riot.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/rs7c8.yft uses 23.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/rs7c8_hi.yft uses 23.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10hc.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10hc.yft uses 20.6 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10hc_hi.yft uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10hc_hi.yft uses 20.6 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10hccivil.yft uses 21.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10hccivil_hi.yft uses 21.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10iml.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10iml_hi.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10pm.yft uses 20.7 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10pm.ytd uses 25.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/s10pm_hi.yft uses 20.7 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/samurev.yft uses 21.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/samurev.ytd uses 28.1 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/samurev_hi.yft uses 21.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/saveiro.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/saveiro.ytd uses 48.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/saveiro_hi.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/scaniabomb.yft uses 20.7 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/scaniabomb.ytd uses 45.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/scaniabomb_hi.yft uses 20.7 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/spinpmesp.yft uses 24.9 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[91mAsset hiden_vehs/spinpmesp.ytd uses 87.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/spinpmesp_hi.yft uses 24.9 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/sprinterbomb.yft uses 32.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/sprinterbomb.ytd uses 41.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/sprinterbomb_hi.yft uses 32.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/sw4grau1.yft uses 30.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/sw4grau1.ytd uses 30.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/sw4grau1_hi.yft uses 30.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/sw4pm.yft uses 28.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/sw4pm.ytd uses 53.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/sw4pm_hi.yft uses 28.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tcross.yft uses 26.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/tcross.ytd uses 58.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tcross_hi.yft uses 26.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tenere.yft uses 18.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/tenere.ytd uses 32.2 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/tenere1200.ytd uses 42.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tenere_hi.yft uses 18.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/teslamodels.yft uses 26.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/teslamodels.ytd uses 22.4 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tigerse.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tigerse.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tigerse_hi.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/titan2022.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/titan2022_hi.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/torino14.ytd uses 45.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail15pm.yft uses 28.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[91mAsset hiden_vehs/trail15pm.ytd uses 90.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail15pm_hi.yft uses 28.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail18pm2.yft uses 26.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail18pm2.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail18pm2_hi.yft uses 26.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail20pcesp1.yft uses 32.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail20pcesp1.ytd uses 30.2 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail20pcesp1_hi.yft uses 32.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail21.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail21.ytd uses 24.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail21_hi.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail21dope2.yft uses 30.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail21dope2.ytd uses 25.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail21dope2_hi.yft uses 30.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail22bomb2.yft uses 32.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trail22bomb2_hi.yft uses 32.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trailpm20.yft uses 26.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trailpm20.ytd uses 26.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/trailpm20_hi.yft uses 26.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tritonhpe.yft uses 20.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tritonhpe.ytd uses 21.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tritonhpe_hi.yft uses 20.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tw3.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[91mAsset hiden_vehs/tw3.ytd uses 78.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/tw3_hi.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/uno.ytd uses 17.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/unoway.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/unoway.ytd uses 36.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/unoway_hi.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/up+hi.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/up.yft uses 22.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/up.ytd uses 46.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/up_hi.yft uses 22.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/urus.yft uses 17.7 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/urus_hi.yft uses 17.7 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/vtrail21.yft uses 29.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/vtrail21.ytd uses 24.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/vtrail21_hi.yft uses 29.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/vwgol.yft uses 27.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/vwgol_hi.yft uses 27.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/vwgolf2.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/vwgolf2.ytd uses 26.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/vwgolf2_hi.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/x6m.yft uses 30.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/x6m.ytd uses 48.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/x6m_hi.yft uses 22.1 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xc90.yft uses 16.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xc90_hi.yft uses 16.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xre2019.yft uses 26.6 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xre2019.ytd uses 19.5 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xre2019_hi.yft uses 26.6 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xre2022.yft uses 17.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xre2022_hi.yft uses 17.5 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xt2017.yft uses 23.9 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xt2017.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xt2017_hi.yft uses 23.9 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xt2017pm.yft uses 31.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[93mAsset hiden_vehs/xt2017pm.ytd uses 52.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xt2017pm_hi.yft uses 31.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xt660cbm.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xt660cbm.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/xt660cbm_hi.yft uses 29.2 MiB of virtual memory.[0m
+[38;5;186m[resources:hiden_vehs] [0m[0m[94mAsset hiden_vehs/zodiac.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource hiden_vehs (356 warnings)
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/22m5.ytd uses 25.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/488misha.ytd uses 19.2 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/675ltsp.yft uses 23.1 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/675ltsp.ytd uses 31.8 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/675ltsp_hi.yft uses 23.1 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/a45amg.yft uses 18.8 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/a45amg_hi.yft uses 18.8 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/acs8.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/ambulance2.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/audirs6.yft uses 18.6 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/audirs6.ytd uses 24.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/ballerpol.ytd uses 24.3 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/ballerpol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/bdragon.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/bdragon.ytd uses 25.4 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/bdragon_hi.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/bmwr.yft uses 19.6 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/bt62r.ytd uses 16.2 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/cb500x.ytd uses 30.7 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/cp9a.ytd uses 16.4 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/dc5.ytd uses 17.2 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/demon.ytd uses 16.8 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/e36prb.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/e36prb.ytd uses 23.8 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/e36prb_hi.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/elegy2pol.ytd uses 16.6 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/elegy2pol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/evo9.ytd uses 24.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/explorerpol.ytd uses 25.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/filthynsx.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/filthynsx.ytd uses 19.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/filthynsx_hi.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/fk8.ytd uses 25.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/fnfrx7.ytd uses 29.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/fugitivepol.ytd uses 31.8 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/fugitivepol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/gt63.yft uses 18.5 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/gt63.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/gt86.yft uses 16.5 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/gt86_hi.yft uses 16.5 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/guardianpol.ytd uses 23.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/hiluxsrx19.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/hiluxsrx19.ytd uses 30.2 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/hiluxsrx19_hi.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/jester5.ytd uses 20.6 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/jester5_livery14.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/jester5_livery24.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/komodapol.ytd uses 29.9 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/komodapol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/kurumapol.ytd uses 29.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/lc500.ytd uses 23.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/lp700.yft uses 20.5 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/lp700.ytd uses 28.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/lp700_hi.yft uses 20.5 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/m1000rr.ytd uses 25.2 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/maverick2.ytd uses 17.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/nc700pol.yft uses 18.0 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/nc700pol.ytd uses 17.5 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/nc700pol_hi.yft uses 18.0 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/oracle2pol.ytd uses 27.3 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/oracle2pol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/polas350.ytd uses 28.8 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/polchall.ytd uses 22.9 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/polchar.ytd uses 27.1 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/polcorv_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/police3pol.ytd uses 28.8 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/police3pol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/policepol.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/policepol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/policetpol.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/policetpol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/poltang.ytd uses 24.9 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/r1.ytd uses 18.8 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/r1250pol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/r32.ytd uses 18.2 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/r32_livery_1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/r32_livery_2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/r35.ytd uses 21.1 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_10.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_10a.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_12.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_13.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_14.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_15.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_16.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_17.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_18.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_19.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_1a.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_20.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_21.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_22.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_23.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_24.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_25.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_26.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_27.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_28.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_29.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_30.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_31.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_32.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_33.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_34.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_35.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_36.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_37.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/roxanne_liv_8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/rr14.ytd uses 29.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/s1000rr.ytd uses 27.6 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/schafter2pol.ytd uses 28.9 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/schafter2pol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/senna.ytd uses 18.8 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sheriff2pol.ytd uses 27.4 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sheriff2pol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/silveradopol.ytd uses 18.4 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/skyliner342.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/skyliner342_hi.yft uses 18.9 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sultanrspol.ytd uses 16.3 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv10.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv11.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv12.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv13.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv14.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv15.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv16.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv17.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv18.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv19.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv20.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv21.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv22.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv23.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv24.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv25.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv26.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv27.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv28.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv29.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv30.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv31.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv32.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv33.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv34.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv35.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv36.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv37.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv38.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv39.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv40.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv41.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv42.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv43.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv44.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv45.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv46.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv47.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv48.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv49.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv50.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv51.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv52.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv53.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv57.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv58.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv59.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv60.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv61.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/sunrise_liv9.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tailgater2pol.ytd uses 28.9 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tailgater2pol_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tauruspol.ytd uses 23.4 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/teslamodels.yft uses 22.4 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/teslamodels.ytd uses 25.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/teslamodels_hi.yft uses 22.4 MiB of virtual memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv10.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv11.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv12.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv13.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv14.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv15.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv16.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv17.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv18.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/tsgr20_liv9.yft uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/wheel_sport06.ydr uses 24.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/wheel_sport13.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/wheel_sport29.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/wheel_sport31.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/wheel_sport34.ydr uses 20.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/wheel_sport38.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/wheel_sport52.ydr uses 24.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/wheel_sport53.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;21m[resources:hiden_veic] [0m[0m[94mAsset hiden_veiculos/zx10.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource hiden_veiculos (216 warnings)
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/africachoque.yft uses 31.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/africachoque.ytd uses 20.6 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/africachoque_hi.yft uses 31.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/blazer98rota.ytd uses 20.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/commanderpm.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/commanderpm_hi.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corolla22pf.yft uses 22.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corolla22pf.ytd uses 21.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corolla22pf_hi.yft uses 22.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corolla23rod.yft uses 29.2 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corolla23rod.ytd uses 23.9 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corolla23rod_hi.yft uses 29.2 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corollacrosspm+hi.ytd uses 25.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corollacrosspm.yft uses 20.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/corollacrosspm.ytd uses 41.2 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/corollacrosspm_hi.yft uses 20.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/creta24pm.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/creta24pm.ytd uses 20.1 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/creta24pm_hi.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/delivery11cmm.yft uses 28.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/delivery11cmm.ytd uses 30.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/delivery11cmm_hi.yft uses 28.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/duster21pm+hi.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/duster21pm.yft uses 21.2 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/duster21pm.ytd uses 38.8 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/duster21pm_hi.yft uses 21.2 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/duster24pm.yft uses 31.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/duster24pm.ytd uses 26.2 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/duster24pm_hi.yft uses 31.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/f850rocam+hi.ytd uses 22.2 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/f850rocam.yft uses 26.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/f850rocam.ytd uses 36.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/f850rocam_hi.yft uses 26.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/fordcargosap.ytd uses 17.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/hiluxcoe.yft uses 30.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/hiluxcoe.ytd uses 49.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/hiluxcoe_hi.yft uses 30.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/lander24pm.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/lander24pm.ytd uses 17.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/lander24pm_hi.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/mastersamu24.yft uses 24.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/mastersamu24.ytd uses 21.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/mastersamu24_hi.yft uses 24.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/rangerbomb.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/rangerbomb.ytd uses 41.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/rangerbomb_hi.yft uses 31.8 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/s1023pf.yft uses 29.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/s1023pf.ytd uses 21.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/s1023pf_hi.yft uses 29.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/spinrp24.yft uses 27.8 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/spinrp24.ytd uses 28.9 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/spinrp24_hi.yft uses 27.8 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/t800pm.yft uses 23.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/t800pm.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/t800pm_hi.yft uses 23.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/tiggo8sap.yft uses 23.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/tiggo8sap.ytd uses 17.1 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/tiggo8sap_hi.yft uses 23.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail15pm+hi.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail15pm.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail15pm.ytd uses 39.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail15pm_hi.yft uses 29.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail19pc.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail19pc.ytd uses 31.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail19pc_hi.yft uses 28.8 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail23anchieta+hi.ytd uses 46.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23anchieta.yft uses 21.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail23anchieta.ytd uses 55.9 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23anchieta_hi.yft uses 21.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23baep+hi.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23baep.yft uses 22.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail23baep.ytd uses 45.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23baep_hi.yft uses 22.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23desc.yft uses 20.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23desc_hi.yft uses 20.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23pc.yft uses 29.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23pc.ytd uses 30.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23pc_hi.yft uses 29.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23pf.yft uses 21.8 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23pf.ytd uses 16.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23pf_hi.yft uses 21.8 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail23pm+hi.ytd uses 34.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23pm.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail23pm.ytd uses 53.2 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23pm_hi.yft uses 25.2 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail23rota+hi.ytd uses 36.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23rota.yft uses 21.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail23rota.ytd uses 43.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail23rota_hi.yft uses 21.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail24ft+hi.ytd uses 19.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail24ft.yft uses 32.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[93mAsset hiden_vtrs/trail24ft.ytd uses 37.2 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail24ft_hi.yft uses 32.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail24prf.yft uses 21.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail24prf_hi.yft uses 21.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail25prf.yft uses 22.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail25prf.ytd uses 24.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/trail25prf_hi.yft uses 22.5 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/vwtatico.ytd uses 31.0 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/xtpm19.yft uses 31.0 MiB of virtual memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/xtpm19.ytd uses 20.5 MiB of physical memory.[0m
+[38;5;211m[resources:hiden_vtrs] [0m[0m[94mAsset hiden_vtrs/xtpm19_hi.yft uses 31.0 MiB of virtual memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource hiden_vtrs (102 warnings)
+[38;5;83m[resources:mapsone:st] [0m[0m[94mAsset mapsone/baham_shell.ydr uses 22.5 MiB of physical memory.[0m
+[38;5;83m[resources:mapsone:st] [0m[0m[94mAsset mapsone/int_mafshell.ydr uses 18.5 MiB of physical memory.[0m
+[38;5;83m[resources:mapsone:st] [0m[0m[94mAsset mapsone/italy_texture.ytd uses 16.7 MiB of physical memory.[0m
+[38;5;83m[resources:mapsone:st] [0m[0m[94mAsset mapsone/prf_txd.ytd uses 25.0 MiB of physical memory.[0m
+[38;5;83m[resources:mapsone:st] [0m[0m[93mAsset mapsone/rfc_eastcustums_txt.ytd uses 50.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;83m[resources:mapsone:st] [0m[0m[93mAsset mapsone/shmann_airport_textures.ytd uses 41.5 MiB of physical memory.[0m
+[38;5;83m[resources:mapsone:st] [0m[0m[94mAsset mapsone/txd_det1_qnx.ytd uses 21.4 MiB of physical memory.[0m
+[38;5;83m[resources:mapsone:st] [0m[0m[94mAsset mapsone/txd_det2_qnx.ytd uses 24.6 MiB of physical memory.[0m
+[38;5;83m[resources:mapsone:st] [0m[0m[94mAsset mapsone/txd_shell_qnx.ytd uses 17.4 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource mapsone (9 warnings)
+[38;5;83m[           resources] [0m[0mStarted resource mega_villa_design
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^accs_002_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^accs_diff_004_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[93mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^accs_diff_009_g_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;215m[resources:megapack_r] [0m[0m[93mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^accs_diff_009_h_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;215m[resources:megapack_r] [0m[0m[93mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^accs_diff_009_u_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;215m[resources:megapack_r] [0m[0m[93mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^accs_diff_009_x_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^berd_diff_046_a_whi.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^feet_042_u.ydd uses 32.0 MiB of virtual memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^hair_003_u.ydd uses 32.0 MiB of virtual memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^hair_diff_001_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^hand_006_u.ydd uses 18.0 MiB of virtual memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^hand_017_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^jbib_080_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^jbib_081_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^jbib_093_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^jbib_134_u.ydd uses 24.0 MiB of virtual memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_mp_f_megapackbig^task_008_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_p_mp_f_megapackbig^p_head_001.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_p_mp_f_megapackbig^p_head_002.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_f_freemode_01_p_mp_f_megapackbig^p_head_009.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^berd_diff_043_a_whi.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^feet_026_u.ydd uses 32.0 MiB of virtual memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^hair_diff_001_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^hand_001_u.ydd uses 18.0 MiB of virtual memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^hand_010_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^jbib_001_u.ydd uses 18.0 MiB of virtual memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[93mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^jbib_diff_004_a_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;215m[resources:megapack_r] [0m[0m[93mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^jbib_diff_004_b_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^jbib_diff_040_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^task_011_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_007_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_b_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_c_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_d_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_e_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_f_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_g_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_h_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_i_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_j_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_k_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_l_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_m_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_n_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_o_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_mp_m_megapackbig^teef_diff_007_p_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;215m[resources:megapack_r] [0m[0m[94mAsset megapack_roupas/mp_m_freemode_01_p_mp_m_megapackbig^p_head_007.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource megapack_roupas (48 warnings)
+[38;5;83m[           resources] [0m[0mStarted resource packroupasnovas
+[38;5;83m[           resources] [0m[0mStarted resource pillbox_unimed
+[38;5;27m[resources:pmesp_pces] [0m[0m[94mAsset pmesp_pcesp/15baep.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;27m[resources:pmesp_pces] [0m[0m[91mAsset pmesp_pcesp/30bpm.ytd uses 71.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;27m[resources:pmesp_pces] [0m[0m[94mAsset pmesp_pcesp/bpm2_txd.ytd uses 16.5 MiB of physical memory.[0m
+[38;5;27m[resources:pmesp_pces] [0m[0m[93mAsset pmesp_pcesp/dpcivil8.ytd uses 34.5 MiB of physical memory.[0m
+[38;5;27m[resources:pmesp_pces] [0m[0m[94mAsset pmesp_pcesp/placa30.ytd uses 17.5 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource pmesp_pcesp (5 warnings)
+[38;5;83m[           resources] [0m[0mStarted resource prefeitura2
+[38;5;59m[resources:prfcruz:st] [0m[0m[94mAsset prfcruz/prf_txd.ytd uses 27.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource prfcruz (1 warning)
+[38;5;83m[           resources] [0m[0mStarted resource verpi_sp_beach
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01^hair_016_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01^hair_018_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01^jbib_013_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01^jbib_014_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01^jbib_diff_006_j_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01^lowr_023_r.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01^teef_001_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_bikerdlc_01^jbib_001_u.ydd uses 24.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_bikerdlc_01^jbib_002_u.ydd uses 24.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_010_h_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_010_i_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_010_j_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_010_k_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_010_l_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_010_v_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_019_t_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_022_y_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_01^jbib_diff_022_z_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_hair_01^hair_005_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_gunrunning_hair_01^hair_006_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_007_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_009_u.ydd uses 24.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_b_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_c_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_d_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_e_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_f_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_g_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_h_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_i_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_j_uni.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_january2016^hand_diff_007_k_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_luxe_02^teef_017_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_roupasf^accs_001_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_roupasf^jbib_004_u.ydd uses 24.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_mp_f_roupasf^jbib_011_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_f_freemode_01_p^p_head_000.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01^feet_diff_000_h_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01^jbib_diff_011_e_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01^jbib_diff_011_f_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01^jbib_diff_011_g_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01^jbib_diff_011_h_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01^jbib_diff_012_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[93mAsset vrp_roupaseup/mp_m_freemode_01^jbib_diff_012_e_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01^task_003_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[93mAsset vrp_roupaseup/mp_m_freemode_01_male_apt01^accs_diff_002_a_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[93mAsset vrp_roupaseup/mp_m_freemode_01_male_apt01^accs_diff_004_a_uni.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_mp_m_gunrunning_01^jbib_005_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_mp_m_january2016^hand_009_u.ydd uses 24.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_mp_m_luxe_01^teef_diff_001_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_p^p_eyes_diff_000_a.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_p^p_eyes_diff_000_b.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_p^p_eyes_diff_000_c.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_p^p_eyes_diff_000_d.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_p^p_eyes_diff_000_e.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_p^p_eyes_diff_000_f.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_p^p_eyes_diff_000_g.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;76m[resources:vrp_roupas] [0m[0m[94mAsset vrp_roupaseup/mp_m_freemode_01_p^p_eyes_diff_000_h.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource vrp_roupaseup (59 warnings)
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for PolyZone
+[38;5;83m[           resources] [0m[0mStarted resource PolyZone
+[38;5;83m[           resources] [0m[0mStarted resource loading
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pma-voice
+[38;5;83m[           resources] [0m[0mStarted resource pma-voice
+[38;5;83m[           resources] [0m[0mStarted resource sounds
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for admin
+[38;5;83m[           resources] [0m[0mStarted resource admin
+[38;5;83m[           resources] [0m[0mStarted resource animacoes
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for atm
+[38;5;83m[           resources] [0m[0mStarted resource atm
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for blipsystem
+[38;5;83m[           resources] [0m[0mStarted resource blipsystem
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for c2n_manobras
+[38;5;83m[           resources] [0m[0mStarted resource c2n_manobras
+[38;5;83m[           resources] [0m[0mStarted resource cemitery
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for chest
+[38;5;83m[           resources] [0m[0mStarted resource chest
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for debug
+[38;5;83m[           resources] [0m[0mStarted resource debug
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for dismantle
+[38;5;83m[           resources] [0m[0mStarted resource dismantle
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for doors
+[38;5;83m[           resources] [0m[0mStarted resource doors
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for dynamic
+[38;5;86m[      script:dynamic] [0m[0mDynamic Groups Loaded. Count:	OK
+[38;5;83m[           resources] [0m[0mStarted resource dynamic
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for engine
+[38;5;83m[           resources] [0m[0mStarted resource engine
+[38;5;83m[           resources] [0m[0mStarted resource extras
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for five_orgs_v2
+[38;5;83m[           resources] [0m[0mStarted resource five_orgs_v2
+[38;5;83m[           resources] [0m[0mStarted resource hoverfy
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for inspect
+[38;5;83m[           resources] [0m[0mStarted resource inspect
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for inventory
+[38;5;83m[           resources] [0m[0mStarted resource inventory
+[38;5;83m[           resources] [0m[0mStarted resource keyboard
+[38;5;83m[           resources] [0m[0mStarted resource memory
+[38;5;83m[           resources] [0m[0mStarted resource notebook
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for notepad
+[38;5;83m[           resources] [0m[0mStarted resource notepad
+[38;5;83m[           resources] [0m[0mStarted resource notify
+[38;5;83m[           resources] [0m[0mStarted resource notifycall
+[38;5;83m[           resources] [0m[0mStarted resource notifyitens
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for paramedic
+[38;5;83m[           resources] [0m[0mStarted resource paramedic
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for ph-craft
+[38;5;193m[     script:ph-craft] [0m[0mFiveCommunity O script foi iniciado com sucesso!
+[38;5;83m[           resources] [0m[0mStarted resource ph-craft
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for plants
+[38;5;83m[           resources] [0m[0mStarted resource plants
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for player
+[38;5;83m[           resources] [0m[0mStarted resource player
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for postit
+[38;5;83m[           resources] [0m[0mStarted resource postit
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for propertys
+[38;5;83m[           resources] [0m[0mStarted resource propertys
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for races
+[38;5;83m[           resources] [0m[0mStarted resource races
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for radio
+[38;5;83m[           resources] [0m[0mStarted resource radio
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for refem
+[38;5;83m[           resources] [0m[0mStarted resource refem
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for revistar
+[38;5;83m[           resources] [0m[0mStarted resource revistar
+[38;5;83m[           resources] [0m[0mStarted resource safecrack
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for shops
+[38;5;83m[           resources] [0m[0mStarted resource shops
+[38;5;83m[           resources] [0m[0mStarted resource showme
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for slotmachine
+[38;5;83m[           resources] [0m[0mStarted resource slotmachine
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for tackle
+[38;5;83m[           resources] [0m[0mStarted resource tackle
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for target
+[38;5;83m[           resources] [0m[0mStarted resource target
+[38;5;83m[           resources] [0m[0mStarted resource taskbar
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for tencode
+[38;5;83m[           resources] [0m[0mStarted resource tencode
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for wall
+[38;5;83m[           resources] [0m[0mStarted resource wall
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for adminmenu
+[38;5;193m[    script:adminmenu] [0m[0mNúmero antes do ajuste:	1200043000000
+[38;5;193m[    script:adminmenu] [0m[0mNúmero depois do ajuste:	1.00 tri
+[38;5;193m[    script:adminmenu] [0m[0mNúmero antes do ajuste:	1200000000000
+[38;5;193m[    script:adminmenu] [0m[0mNúmero depois do ajuste:	1.00 tri
+[38;5;83m[           resources] [0m[0mStarted resource adminmenu
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for autoschool
+[38;5;83m[           resources] [0m[0mStarted resource autoschool
+[38;5;83m[           resources] [0m[0mStarted resource badge
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for bancada
+[38;5;193m[resources:bancada:st] [0m[0m[93mAsset bancada/penhashop_mesa_nm_rj_v2.ydr uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;193m[resources:bancada:st] [0m[0m[93mAsset bancada/penhashop_mesa_nm_v1.ydr uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;193m[resources:bancada:st] [0m[0m[93mAsset bancada/penhashop_mesa_nm_v2.ydr uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (such as models not loading/rendering).[0m
+[38;5;83m[           resources] [0m[0mStarted resource bancada (3 warnings)
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for bank
+[38;5;83m[           resources] [0m[0mStarted resource bank
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for barbershop
+[38;5;83m[           resources] [0m[0mStarted resource barbershop
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for bennys
+[38;5;83m[           resources] [0m[0mStarted resource bennys
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for chat
+[38;5;83m[           resources] [0m[0mStarted resource chat
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for crafting
+[38;5;83m[           resources] [0m[0mStarted resource crafting
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for creative
+[38;5;83m[           resources] [0m[0mStarted resource creative
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for garages
+[38;5;83m[           resources] [0m[0mStarted resource garages
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for helicam
+[38;5;83m[           resources] [0m[0mStarted resource helicam
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for helicrash
+[38;5;83m[           resources] [0m[0mStarted resource helicrash
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for hidenfy
+[38;5;83m[           resources] [0m[0mStarted resource hidenfy
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for hookers
+[38;5;83m[           resources] [0m[0mStarted resource hookers
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for hud
+[38;5;83m[           resources] [0m[0mStarted resource hud
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for initial
+[38;5;83m[           resources] [0m[0mStarted resource initial
+[38;5;83m[           resources] [0m[0mStarted resource nintendo
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pause
+[38;5;83m[           resources] [0m[0mStarted resource pause
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for pdm
+[38;5;83m[           resources] [0m[0mStarted resource pdm
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for police
+[38;5;83m[           resources] [0m[0mStarted resource police
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for ponto
+[38;5;83m[           resources] [0m[0mStarted resource ponto
+[38;5;83m[           resources] [0m[0mStarted resource request
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for rojao
+[38;5;83m[           resources] [0m[0mStarted resource rojao
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for screenshot
+[38;5;83m[           resources] [0m[0mStarted resource screenshot
+[38;5;83m[           resources] [0m[0mStarted resource script
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for shortcuts
+[38;5;83m[           resources] [0m[0mStarted resource shortcuts
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for skinshop
+[38;5;83m[           resources] [0m[0mStarted resource skinshop
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for smartphone
+[38;5;83m[           resources] [0m[0mStarted resource smartphone
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for smartphone-jobs
+[38;5;83m[           resources] [0m[0mStarted resource smartphone-jobs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for snp_cars
+[38;5;83m[           resources] [0m[0mStarted resource snp_cars
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for snt-laundry
+[38;5;83m[           resources] [0m[0mStarted resource snt-laundry
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for socorrohospital
+[38;5;83m[           resources] [0m[0mStarted resource socorrohospital
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for socorromec
+[38;5;83m[           resources] [0m[0mStarted resource socorromec
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for spawn
+[38;5;110m[resources:spawn:stre] [0m[0m[94mAsset spawn/sp_01_station.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;83m[           resources] [0m[0mStarted resource spawn (1 warning)
+[38;5;83m[           resources] [0m[0mStarted resource survival
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for tattooshop
+[38;5;83m[           resources] [0m[0mStarted resource tattooshop
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for xsound
+[38;5;83m[           resources] [0m[0mStarted resource xsound
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for bus
+[38;5;83m[           resources] [0m[0mStarted resource bus
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for deliver
+[38;5;83m[           resources] [0m[0mStarted resource deliver
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for farmer
+[38;5;83m[           resources] [0m[0mStarted resource farmer
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for routes
+[38;5;83m[           resources] [0m[0mStarted resource routes
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for taxi
+[38;5;83m[           resources] [0m[0mStarted resource taxi
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for tractor
+[38;5;83m[           resources] [0m[0mStarted resource tractor
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for trucker
+[38;5;83m[           resources] [0m[0mStarted resource trucker
+[38;5;42m[      script:oxmysql] [0m[0m[36m[10.4.32-MariaDB] [32mDatabase server connection established![97m
+[38;5;130m[ script:five_orgs_v2] [0m[97m[32m[FIVE_ORGS_V2] [97mMetas semanais resetadas da última semana: 0.
+[38;5;211m[   script:smartphone] [0m[97m[SMARTPHONE] Authorized!
+[38;5;130m[ script:five_orgs_v2] [0m[97m[91m[FIVE_ORGS_V2] [97mIniciando Cache dos jogadores.
+[38;5;130m[ script:five_orgs_v2] [0m[97m[32m[FIVE_ORGS_V2] [97mCache dos jogadores gerados com sucesso tempo 0 segundo(s).
+[38;5;186m[ citizen-server-main] [0m[97m-> Quitting: Ctrl-C pressed in server console.
+[38;5;73m[ citizen-server-impl] [0m[97m[91m        fff                          
+[38;5;73m[ citizen-server-impl] [0m[91m[91m  cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91m ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl] [0m[91m                                     [0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mAuthenticated with cfx.re Nucleus: [0mhttps://miihalves021-xoxe9x.users.cfx.re/

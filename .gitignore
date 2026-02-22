@@ -1,0 +1,17 @@
+# FiveM runtime and local secrets
+config.private.cfg
+cache/
+txData/
+
+# Artifacts runtime noise
+artifacts/crashes/
+artifacts/*.dmp
+artifacts/*-full.dmp
+*.dmp
+resources/[[]addons]/[[]veiculos]/prf_vtr.rar
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.replxx_history

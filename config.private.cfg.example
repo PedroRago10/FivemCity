@@ -1,0 +1,6 @@
+# Copie para config.private.cfg e preencha os valores reais.
+# Este arquivo de exemplo pode ir para git.
+
+set mysql_connection_string "server=127.0.0.1;uid=root;password=;database=creawork;port=3306;charset=utf8mb4"
+set steam_webApiKey "SUA_STEAM_WEB_API_KEY"
+sv_licenseKey "SUA_FIVEM_LICENSE_KEY"
