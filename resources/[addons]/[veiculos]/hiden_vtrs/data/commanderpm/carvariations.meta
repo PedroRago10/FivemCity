@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!-- V-MOD Central https://discord.gg/ZBBnXMyjKf -->
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>commanderpm</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						134
+						134
+						0
+						156
+						0
+						0
+					</indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1008_Spin_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<sn>01210801</sn>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="815" />
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

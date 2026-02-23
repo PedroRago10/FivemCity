@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- AXLE Works https://discord.gg/ZBBnXMyjKf -->
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>s1023pf</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            16 
+            16
+            16
+            156
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item> 
+      </colors>
+      <kits>
+        <Item>900_s1023pf_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="877" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
