@@ -15,3 +15,6 @@ resources/[[]addons]/[[]veiculos]/prf_vtr.rar
 Thumbs.db
 .vscode/
 .replxx_history
+
+# Runtime state (do not version)
+resources/[exclusive]/snt-laundry/database.json
