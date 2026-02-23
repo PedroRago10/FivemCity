@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<CVehicleModelInfoVariation>   <!-- 962(LANTERNA SEM BRILHO) --> <!-- 949(LANTERNA E FAROL SEM BRILHO) --> <!-- 1(LANTERNA E FAROL NORMAL) --> <!-- 2(LANTERNA E FAROL NORMAL E AMARELO) --> 
+	<variationData>
+		<Item>
+			<modelName>bnr34</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+            62
+            123
+            73
+            93
+			0
+			131
+			131
+          </indices>
+					<liveries>
+						<Item value="true" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1060_bnr34_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="949" />
+			<sirenSettings value="0" />
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

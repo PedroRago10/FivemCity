@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<CVehicleModelInfoVariation>   <!-- 962(LANTERNA SEM BRILHO) --> <!-- 949(LANTERNA E FAROL SEM BRILHO) --> <!-- 1(LANTERNA E FAROL NORMAL) --> <!-- 2(LANTERNA E FAROL NORMAL E AMARELO) --> 
+	<variationData>
+		<Item>
+			<modelName>saveiro</modelName>
+			<colors>
+				<Item>
+				<indices content="char_array">
+					0 
+					0 
+					0 
+					156 
+				</indices>
+					<liveries>
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+						<Item value="false" />
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>998_saveiro_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="1" />
+			<sirenSettings value="0" />
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

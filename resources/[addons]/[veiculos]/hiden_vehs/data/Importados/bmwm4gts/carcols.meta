@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+   		<Item>
+			<kitName>bmwm4gts_modkit</kitName>
+			<id value="15005" />
+			<kitType>MKT_SPECIAL</kitType>
+			<visibleMods>
+				<Item>
+					<modelName>bmwm4gts_wing_1</modelName>
+					<modShopLabel>bmwm4gts_wing_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_2</modelName>
+					<modShopLabel>bmwm4gts_wing_2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_3</modelName>
+					<modShopLabel>bmwm4gts_wing_3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_4</modelName>
+					<modShopLabel>bmwm4gts_wing_4</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_5</modelName>
+					<modShopLabel>bmwm4gts_wing_5</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_6</modelName>
+					<modShopLabel>bmwm4gts_wing_6</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_7</modelName>
+					<modShopLabel>bmwm4gts_wing_7</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_8</modelName>
+					<modShopLabel>bmwm4gts_wing_8</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_9</modelName>
+					<modShopLabel>bmwm4gts_wing_9</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_wing_10</modelName>
+					<modShopLabel>bmwm4gts_wing_10</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>boot</Item>
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>boot</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_exh1</modelName>
+					<modShopLabel>bmwm4gts_exh1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_a</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+						<Item>exhaust_3</Item>
+						<Item>exhaust_4</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>misc_a</bone>
+					<collisionBone>misc_a</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_exh2</modelName>
+					<modShopLabel>bmwm4gts_exh2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_a</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+						<Item>exhaust_3</Item>
+						<Item>exhaust_4</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>misc_a</bone>
+					<collisionBone>misc_a</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_exh3</modelName>
+					<modShopLabel>bmwm4gts_exh3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_a</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+						<Item>exhaust_3</Item>
+						<Item>exhaust_4</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>misc_a</bone>
+					<collisionBone>misc_a</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_roof_1</modelName>
+					<modShopLabel>bmwm4gts_roof_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="true" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_roof_2</modelName>
+					<modShopLabel>bmwm4gts_roof_2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="true" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_roof_3</modelName>
+					<modShopLabel>bmwm4gts_roof_3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="true" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_roof_4</modelName>
+					<modShopLabel>bmwm4gts_roof_4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="true" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_cage_1</modelName>
+					<modShopLabel>bmwm4gts_cage_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_e</Item>
+						<Item>misc_f</Item>
+					</turnOffBones>
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_bonnet_1</modelName>
+					<modShopLabel>bmwm4gts_bonnet_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>bonnet</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_doorl</modelName>
+					<modShopLabel>bmwm4gts_doorl</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_c</Item>
+					</turnOffBones>
+					<type>VMT_WING_L</type>
+					<bone>door_dside_f</bone>
+					<collisionBone>door_dside_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>bmwm4gts_doorr</modelName>
+					<modShopLabel>bmwm4gts_doorr</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_d</Item>
+					</turnOffBones>
+					<type>VMT_WING_R</type>
+					<bone>door_pside_f</bone>
+					<collisionBone>door_pside_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+
+    </Lights>
+</CVehicleModelInfoVarGlobal>
